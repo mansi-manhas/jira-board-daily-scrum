@@ -1,0 +1,35 @@
+table,
+th,
+td {
+    border: 1px solid black;
+    font-size: 90%;
+    /* font-weight: 450 */
+}
+
+.adhocBugs {
+    color: black;
+    padding: 2px;
+    min-width: 9rem;
+    max-width: 13rem;
+    background-color: lightgray;
+    width: 12rem;
+}
+
+#adhocTable .adTableHeaderElement {
+    width: 11rem;
+    color: black;
+    min-width: 8rem;
+    background-color: lightgray
+}
+
+.adTableNoDataDiv{
+    margin: 1rem;
+}
+
+#adhocTable .adTableHeaderSummary{
+    margin: 0px;
+    max-width: 13rem;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
