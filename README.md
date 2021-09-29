@@ -1,5 +1,5 @@
-# Agile Central Dashboard & Automating Sub Task Creation 
 # [ WIP (Work In Progress) ] 
+# Agile Central Dashboard & Automating Sub Task Creation 
 A central board to integrate all relevant bugs / tickets / stories from Jira at one place.
 
 # Problem Statement
@@ -23,6 +23,10 @@ Problems Analyzed -
 - Currently in Jira, I can only see tasks for one team. However, as a Manager, If I am managing more than 5 - 6 teams, I need easy access, easy view to all the Jira relevant tasks
 - This central dashboard will act as a single source of thruth for all AGILE task starting from GROOMING, PLANNING, SPRINT HEALTH, DAILY SCRUM VIEW, and SPRINT RELEASE.
 
+# High - Level Architecture
+
+![image](https://user-images.githubusercontent.com/18692751/135310055-574cf586-7813-4920-9d74-47ef9caadf00.png)
+
 # Wireframes
 
 ![image](https://user-images.githubusercontent.com/18692751/135309727-ef5b9191-234b-4ee6-a221-01b3e4060886.png)
@@ -33,10 +37,6 @@ Problems Analyzed -
 
 ![image](https://user-images.githubusercontent.com/18692751/135309923-f8e296d8-4d00-4d04-b334-81f07f998305.png)
 
-
-# High - Level Architecture
-
-![image](https://user-images.githubusercontent.com/18692751/135310055-574cf586-7813-4920-9d74-47ef9caadf00.png)
 
 # Sample - Screenshots
 
