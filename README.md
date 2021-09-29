@@ -1,4 +1,5 @@
-# Agile Central Dashboard & Automating Sub Task Creation [ WIP (Work In Progress) ] 
+# Agile Central Dashboard & Automating Sub Task Creation 
+# [ WIP (Work In Progress) ] 
 A central board to integrate all relevant bugs / tickets / stories from Jira at one place.
 
 # Problem Statement
