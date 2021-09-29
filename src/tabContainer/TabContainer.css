@@ -1,0 +1,61 @@
+.TabContainer{
+    display: flex;
+    flex: row wrap;
+    justify-content: space-between;
+    background-color: "#212529";
+    color: "#ffffff";
+}
+
+.TabContainerRight{
+    display: flex;
+    flex: row wrap;
+    justify-content: end;
+    margin-right: 0.5rem;
+    background-color: "#212529";
+    color: "#ffffff";
+}
+
+.TabContainerSeparatorLine{
+    margin-top: 0rem;
+    margin-bottom: 0rem;
+    border-top: 2px solid gray;
+}
+
+.SprintTitleText{
+    align-self: center;
+    background-color: "#212529";
+    color: "#ffffff";
+}
+
+.projectKeyDropdown{
+    margin:0.5rem;
+    background-color: "#212529";
+    color: "#ffffff";
+}
+
+#projectSelect {
+    padding: 5px 35px 5px 5px;
+    font-size: 16px;
+    height: 45px;
+    border: 1px solid #ced4da;
+    border-radius: .25rem;
+    background-color: "#212529";
+    color: "#ffffff";
+  }
+
+.sprintDropdown{
+    margin:0.5rem;
+    background-color: "#212529";
+    color: "#ffffff";
+}
+
+#sprintSelect{
+    width: auto;
+    padding: 5px 35px 5px 5px;
+    font-size: 16px;
+    height: 45px;
+    border: 1px solid #ced4da;
+    border-radius: .25rem;
+    background-color: "#212529";
+    color: "#ffffff";
+}

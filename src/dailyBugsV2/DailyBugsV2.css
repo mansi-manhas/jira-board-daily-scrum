@@ -1,0 +1,51 @@
+.svg-color {
+    filter: invert(0%) sepia(7%) saturate(7471%) hue-rotate(76deg) brightness(98%) contrast(106%);
+}
+
+.svg-color-low {
+    filter: invert(0%) sepia(0%) saturate(7486%) hue-rotate(340deg) brightness(94%) contrast(106%);
+}
+
+.rotate180 {
+    -webkit-transform: rotate(180deg);
+    -moz-transform: rotate(180deg);
+    -o-transform: rotate(180deg);
+    -ms-transform: rotate(180deg);
+    transform: rotate(180deg);
+}
+
+table,
+th,
+td {
+    border: 1px solid black;
+    font-size: 90%;
+    /* font-weight: 450 */
+}
+
+.adhocBugs {
+    color: black;
+    padding: 2px;
+    min-width: 9rem;
+    max-width: 13rem;
+    background-color: lightgray;
+    width: 12rem;
+}
+
+#adhocTable .adTableHeaderElement {
+    width: 11rem;
+    color: black;
+    min-width: 8rem;
+    background-color: lightgray
+}
+
+.adTableNoDataDiv{
+    margin: 1rem;
+}
+
+#adhocTable .adTableHeaderSummary{
+    margin: 0px;
+    max-width: 13rem;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
