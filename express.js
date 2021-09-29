@@ -91,7 +91,7 @@ app.post('/api/createTask', function (req, res) {
     var auth = `Basic ${req.body.fields.credentials}`;
     const jiraConfig = {
         headers: {
-            'Authorization': "Basic aTMyOTI0OTpATWFuczYwOTg=",
+            'Authorization': "Basic <YOUR KEY>",
             'Content-Type': 'application/json',
             'Accept': 'application/json'
         }
