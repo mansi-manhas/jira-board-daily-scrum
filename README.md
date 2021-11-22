@@ -1,6 +1,17 @@
-# [ WIP (Work In Progress) ] 
 # Agile Central Dashboard & Automating Sub Task Creation 
 A central board to integrate all relevant bugs / tickets / stories from Jira at one place.
+
+## Demo
+
+![image](https://user-images.githubusercontent.com/18692751/135310180-dada40b1-e9a3-4dc7-b645-a8186930b2a8.png)
+
+![image](https://user-images.githubusercontent.com/18692751/135310225-18d533bf-df0c-4b8b-807a-523733648761.png)
+
+![image](https://user-images.githubusercontent.com/18692751/135310295-3a962833-98ae-4359-8fa5-ed066c3308b5.png)
+
+![image](https://user-images.githubusercontent.com/18692751/135310336-7a16ddca-1ede-46f7-bf04-8c172414c960.png)
+
+![image](https://user-images.githubusercontent.com/18692751/135310381-311cb2c2-46e8-41a3-a550-ed8b767f8a32.png)
 
 # Problem Statement
 Jira allows different organizations to create jira projects at organizational level. Jira gives a descriptive and a birds eye view for all the backlogs of a project, its respective bugs and offers a lot of advantages using their features like managing scrum boards and creating dashboards using third party gadgets.
@@ -36,19 +47,6 @@ Problems Analyzed -
 ![image](https://user-images.githubusercontent.com/18692751/135309862-0e60c005-bb69-412f-8db6-59edc9a9a51f.png)
 
 ![image](https://user-images.githubusercontent.com/18692751/135309923-f8e296d8-4d00-4d04-b334-81f07f998305.png)
-
-
-# Sample - Screenshots
-
-![image](https://user-images.githubusercontent.com/18692751/135310180-dada40b1-e9a3-4dc7-b645-a8186930b2a8.png)
-
-![image](https://user-images.githubusercontent.com/18692751/135310225-18d533bf-df0c-4b8b-807a-523733648761.png)
-
-![image](https://user-images.githubusercontent.com/18692751/135310295-3a962833-98ae-4359-8fa5-ed066c3308b5.png)
-
-![image](https://user-images.githubusercontent.com/18692751/135310336-7a16ddca-1ede-46f7-bf04-8c172414c960.png)
-
-![image](https://user-images.githubusercontent.com/18692751/135310381-311cb2c2-46e8-41a3-a550-ed8b767f8a32.png)
 
 # Potential Risks
 
